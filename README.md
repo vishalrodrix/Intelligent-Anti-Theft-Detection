@@ -1,4 +1,4 @@
-Here is the corrected and humanized version of your content, properly aligned and formatted for a GitHub README file. 
+
 
 ---
 
@@ -100,4 +100,3 @@ The Intelligent Anti-Theft Surveillance System combines machine learning and com
 
 ---
 
-This version is formatted for readability and humanized for better engagement on GitHub. Let me know if you'd like further modifications!
